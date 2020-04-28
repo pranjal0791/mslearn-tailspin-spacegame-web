@@ -1,2 +1,0 @@
-User name,Password,Access key ID,Secret access key,Console login link
-aws-cli-user1,,AKIAS4G5UT2UQ7SABKUU,UpyrKWqEUVvhlYUP4a8Vz4ld2hkzSQ4ddsRXrpXq,https://198033317545.signin.aws.amazon.com/console
